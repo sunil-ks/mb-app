@@ -25,7 +25,7 @@ SECRET_KEY = 'wgpg4-e1*=d8n-dai7(+h$&c9%&!@%q$-axy9atbr+sbr2%7zp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
